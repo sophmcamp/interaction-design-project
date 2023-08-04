@@ -81,7 +81,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #ffffff; }
+  background: #b0d9ff56; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -94,7 +94,7 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #b0d9ff56;
+  color: #00000000;
   font-family: "Open Sans", sans-serif;
   font-size: 13pt;
   font-weight: 400;
@@ -1106,7 +1106,7 @@ input[type="radio"] {
   input[type="checkbox"] + label,
   input[type="radio"] + label {
     text-decoration: none;
-    color: #b0d9ff56;
+  color: #00000000;
     cursor: pointer;
     display: inline-block;
     font-size: 1em;
@@ -1903,7 +1903,7 @@ button,
     -webkit-transform: scaleX(-1);
     -ms-transform: scaleX(-1);
     transform: scaleX(-1);
-    color: #b0d9ff56;
+    color: #00000000;
     content: '\f002';
     cursor: default;
     display: block;
@@ -2058,7 +2058,7 @@ button,
       text-indent: 7.25em;
       width: 7.25em; }
       #sidebar .toggle:before {
-        color: #b0d9ff56;
+        color: #00000000;
         margin-left: -0.0625em;
         margin-top: -0.25em;
         font-size: 1.1rem;
