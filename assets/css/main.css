@@ -2185,8 +2185,13 @@ button,
     #banner .image {
       max-height: 35vh; } }
 
+.c2 {
+  display: inline-grid;
+    margin-left: 15vw;
+}
+      
 .c2 > a {
-  margin: 1em;
+   margin: 1em;
 }
 
 /* Footer */
