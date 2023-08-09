@@ -2166,7 +2166,7 @@ button,
         -webkit-flex-shrink: 0;
         -ms-flex-shrink: 0;
         flex-shrink: 0;
-        width: 100%; }
+        width: 50%; }
       #banner .image {
         -moz-flex-grow: 0;
         -webkit-flex-grow: 0;
@@ -2184,6 +2184,10 @@ button,
   @media screen and (orientation: portrait) and (max-width: 480px) {
     #banner .image {
       max-height: 35vh; } }
+
+.c2 > a {
+  margin: 1em;
+}
 
 /* Footer */
 #footer .copyright {
