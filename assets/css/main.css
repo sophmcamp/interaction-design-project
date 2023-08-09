@@ -2186,12 +2186,26 @@ button,
       max-height: 35vh; } }
 
 .c2 {
-  display: inline-grid;
-    margin-left: 15vw;
+  margin-bottom: 2em;
 }
       
 .c2 > a {
-   margin: 1em;
+  margin: 0.75em;
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
+}
+      
+@media screen and (min-width: 619px) {
+  .c2 {
+    display: inline-grid;
+    margin-left: 15vw;
+  }
+      
+  .c2 > a {
+    margin: 1.5em;
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
 }
 
 /* Footer */
