@@ -3493,7 +3493,7 @@ button:disabled,
   }
 }
 
-@media screen and (min-width: 619px) {
+@media screen and (min-width: 629px) {
   #banner .content {
     display: inline;
   }
@@ -3604,7 +3604,7 @@ button:disabled,
   }
 }
 
-@media screen and (min-width: 619px) {
+@media screen and (min-width: 629px) {
   .c2 {
     display: inline-grid;
     margin-left: 15vw;
